@@ -40,7 +40,7 @@ function Navbar() {
   return (
     <>
       <div className="navbar w-screen  flex justify-between fixed z-50 bg-white">
-        <div className="navbar__logo w-1/3 h-1/3 p-4 sm:w-1/4 sm:h-1/4 ">
+        <div className="navbar__logo w-1/3 h-1/3 p-4 sm:w-1/4 sm:h-1/4 lg:w-1/5  ">
             <img src={car_rental__logo} alt="logo" />
         </div>
 
