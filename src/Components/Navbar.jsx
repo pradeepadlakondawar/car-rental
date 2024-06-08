@@ -77,7 +77,7 @@ function Navbar() {
             </NavLink>
             <Button
             name={"Register"} 
-            className={`sm:px-7 sm:py-3`}/>
+            className={`sm:px-7 sm:py-3 `}/>
         </div>
         </div>
 
