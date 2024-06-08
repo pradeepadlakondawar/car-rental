@@ -9,6 +9,7 @@ import Banner_Homepage from './Pages/Banner_Homepage';
 import Banner_otherPages from './Pages/Banner_otherPages';
 import RentalSteps from './Pages/RentalSteps';
 import Testimonials from './Pages/Testimonials';
+import ChooseUs from './Components/ChooseUs';
 
 function App() {
   
@@ -22,7 +23,7 @@ function App() {
     <CarbookForm />
     <RentalSteps />
     <Testimonials />
-    
+    <ChooseUs />
     <Banner_Homepage />
     <Banner_otherPages />
     <Footer />
