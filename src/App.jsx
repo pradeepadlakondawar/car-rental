@@ -12,6 +12,7 @@ import Testimonials from './Pages/Testimonials';
 import ChooseUs from './Components/ChooseUs';
 import Download from './Components/Download';
 import FAQs from './Components/FAQs';
+import FAQItem from './Components/FAQItem';
 
 function App() {
   
@@ -27,6 +28,7 @@ function App() {
     <Testimonials />
     <ChooseUs />
     <Download />
+    
     <FAQs />
     <Banner_Homepage />
     <Banner_otherPages />
