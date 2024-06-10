@@ -10,6 +10,8 @@ import Banner_otherPages from './Pages/Banner_otherPages';
 import RentalSteps from './Pages/RentalSteps';
 import Testimonials from './Pages/Testimonials';
 import ChooseUs from './Components/ChooseUs';
+import Download from './Components/Download';
+import FAQs from './Components/FAQs';
 
 function App() {
   
@@ -24,6 +26,8 @@ function App() {
     <RentalSteps />
     <Testimonials />
     <ChooseUs />
+    <Download />
+    <FAQs />
     <Banner_Homepage />
     <Banner_otherPages />
     <Footer />
